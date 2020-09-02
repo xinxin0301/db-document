@@ -1,0 +1,1 @@
+**修改application.properties 数据源，启动Test测试类即可生成数据库文档、HTML文件、WORD文件、Markdown文件**
